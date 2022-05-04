@@ -63,7 +63,7 @@ export function WidgetForm() {
             )}
 
             <footer className="text-xs text-neutral-400 select-none">
-                Feito com ♥ por <a className="underline underline-offset-2" href="https://github.com/vitorhonna/nlw-return-impulse" target="_blank">Vitor Honna</a>
+                Feito com ♥ por <a className="underline underline-offset-2" href="https://github.com/Gabriellopes232/nlw-return-front" target="_blank">Gabriel Lopes</a>
             </footer>
         </div >
     );
